@@ -17,6 +17,7 @@
 
 ### 📊 Business Intelligence & Visualization
 - **Power BI** (DAX, Data Modeling, Interactive Dashboards)
+- **Tableau**
 - **Microsoft Excel** (Pivot Tables, KPIs, Charts, Lookups)
 
 ### 🔄 Data Handling
@@ -28,6 +29,18 @@
 - Git & GitHub  
 - VS Code  
 - Jupyter Notebook  
+
+---
+
+## 🧠 Data Analytics Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
 
 ---
 
@@ -55,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh12334&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh12334&layout=compact&theme=tokyonight&hide=html,css,javascript" />
 </p>
 
 ---
