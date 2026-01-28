@@ -61,7 +61,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yogesh12334&show_icons=true&theme=tokyonight" />
@@ -75,8 +75,8 @@
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: *(add your LinkedIn profile link here)*  
-- 📧 Email: *(add your professional email here)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/yogesh-kumar-saini/ 
+- 📧 Email: yogeshkumar84192@gmail.com
 
 ---
 
